@@ -140,7 +140,7 @@ const ImageCompressor = () => {
           <input
             type="range"
             id="maxSize"
-            min="500"
+            min="100"
             max="8000"
             step="100"
             value={maxSize}
